@@ -1,0 +1,5 @@
+= Building Local Clusters with KinD
+
+== Background
+
+Do you want to learn about Kubernetes? The best way is to just start playing and experimenting. To do this we need a local cluster to play with, _it's hard to get a cheaper cluster than running locally anymore_, to do this we can use a number of tools, today I'm going to focus on my favorite link:https://kind.sigs.k8s.io[`KinD`]. KinD deploying Kubernetes into Docker containers running on your machine as though they were physical machines. Watch the video to learn more.
